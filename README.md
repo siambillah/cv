@@ -5,7 +5,7 @@
 
 - This is my bootstrap project I want to try my personal CV to create a web page based CV.
 - Publish this CV on github page. try to 
-<a href="https://siambillah.github.io/cv/" target="blank">**VISIT HERE**</a>
+<a href="https://siambillah.github.io/cv/" target="_blank">**VISIT HERE**</a>
 - If any suggestion write on project.
 
 - If you want to create your own CV try this.
